@@ -1,8 +1,8 @@
 # Mobile Programming Course
-# StickStuck
+# StickStuck
 This project is a Tetris like game developped on AndroidStudio without using any external libraries or game engines.
 
-### Screenshots from game
+### Screenshots from game
 
 
 ![X](https://github.com/ebocugoz/Mobile-Programming-Course/blob/master/Screenshots/Screenshot_2016-05-08-15-24-32.png)
