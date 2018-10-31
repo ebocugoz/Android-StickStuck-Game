@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">StickStuck</string>
+    <string name="score">Score</string>
+    <string name="highscore"></string>
+    <string-array name="game_speed">
+        <item>Very Slow</item>
+        <item>Slow</item>
+        <item>Normal</item>
+        <item>Fast</item>
+        <item>Very Fast</item>
+    </string-array>
+    <string-array name="theme">
+        <item>Classic Theme</item>
+        <item>Emperor Theme</item>
+
+    </string-array>
+
+
+</resources>
