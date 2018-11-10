@@ -1,4 +1,4 @@
-package com.cs310.tetris;
+package com.cs310.erdembocugoz;
 
 public class LStick extends Stick {
 	private static  int BLOCK_TYPE = TileView.BLOCK_ORANGE;

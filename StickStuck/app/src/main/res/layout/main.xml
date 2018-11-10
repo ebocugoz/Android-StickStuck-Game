@@ -4,7 +4,7 @@
     android:layout_height="fill_parent"
     >
 
-    <com.cs310.tetris.MainMap
+    <com.cs310.erdembocugoz.MainMap
 	 android:id="@+id/tetris"
 	 android:layout_width="match_parent"
      android:layout_height="match_parent"/>

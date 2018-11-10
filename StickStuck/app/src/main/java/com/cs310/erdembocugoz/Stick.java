@@ -1,11 +1,6 @@
-package com.cs310.tetris;
+package com.cs310.erdembocugoz;
 
-import android.app.Activity;
-import android.content.Context;
-import android.content.SharedPreferences;
 import android.graphics.Point;
-import android.preference.PreferenceActivity;
-import android.preference.PreferenceManager;
 import android.util.Log;
 
 public abstract class Stick {

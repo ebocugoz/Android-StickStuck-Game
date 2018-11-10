@@ -1,6 +1,4 @@
-package com.cs310.tetris;
-
-import android.preference.PreferenceManager;
+package com.cs310.erdembocugoz;
 
 public class IStick extends Stick {
 	private static  int BLOCK_TYPE = TileView.BLOCK_BLUE;

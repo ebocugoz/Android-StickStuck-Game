@@ -1,4 +1,4 @@
-package com.cs310.tetris;
+package com.cs310.erdembocugoz;
 
 /**
  * Created by admin on 06/05/16.

@@ -1,4 +1,4 @@
-package com.cs310.tetris;
+package com.cs310.erdembocugoz;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

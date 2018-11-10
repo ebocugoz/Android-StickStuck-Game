@@ -1,4 +1,4 @@
-package com.cs310.tetris;
+package com.cs310.erdembocugoz;
 
 public class JStick extends Stick {
 	private static  int BLOCK_TYPE = TileView.BLOCK_LIGHBLUE;
