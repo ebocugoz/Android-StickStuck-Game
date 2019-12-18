@@ -1,4 +1,4 @@
-# Mobile Programming Course
+
 # StickStuck
 This project is a Tetris like game developped on AndroidStudio without using any external libraries or game engines.
 
